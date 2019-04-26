@@ -1,31 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DevStock service
+_My english skill maybe can look very awful, don't pay many attention to it_
 
-## Available Scripts
+DevStock - it's a something like a your personal "stock" for all of your <br>
+important things, like a projects, designs, notes, and etc.<br>
 
-In the project directory, you can run:
+I decided to create this project a quite recently,<br>
+so informative and maybe useful notes will be later in updates<br>
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Project aims
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+I hope, that this service will make life and work flows more organized and productive.<br>
+Second aim is just a grow up to full stack developer, be more independent with some ideas.<br>
 
-### `npm test`
+Also, this project is also will help me to more practice in popular libraries/frameworks, such like an react, vue and many different<br>
+So, now you should understand, that this project, in fact will be more like an self-study thing, unlike a real project
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Actual project progress
 
-### `npm run build`
+At this moment, I haven't something to show.<br>
+`Develop in progress!`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Project main features
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+**Feature list will be growing by the time**<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Comfortable interaction with projects
+2. Good 'Project' meaning in service
+3. Way to make some usable files cloud system, or working with one of existing
+4. Smart and thoroughly planned UI/UX side, that will help own users with understanding of priorities
+5. Safe and secure system, that will make service more private, unlike an social network or something like this.
+6. System, that understand projects work-flow and trying to be more comfort and adaptive for user
+7. Some simple organizer apps
+8. Useful way to show your works, something like portfolio, adaptive to all professions
+9. Some utility features that will make own projects analysis easier
+10. Being more accurate and useful for all users. <br>
+(Alpha-version will be adapted only for me, but in Beta-version I planning to make it work with Users,
+ doing some researches and some of like this analysis things)
+
+I really hope that final version will be equal or just very close with this list,<br>
+But also I'm sure that this version is just like one out of different levels of project evolution in future<br>
+
+### Project expectations
+
+At this moment, I can just imagine of future features and lifecycle of service but all.<br>
+But I can list some things, that I can imagine as appropriate evolution ways of project<br>
+
+1. Mobile version for service
+2. Android client-server app
+3. IOS client-server app
+4. Desktop version, exclusively on MacOs <br> (Apps like this a very unpopular in any other OS)<br>
+`This list will be editing in future`
+
+
+_If you can read this text, then just know that I would be surprised with your tolerance_
+_for my ugly grammar, but be sure that with each new update there will be less mistakes in text_
 
 ### `npm run eject`
 
@@ -37,32 +66,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Work sources
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+###### **Frameworks & libraries**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**[React](https://github.com/facebook/react)** library <br> 
+**[Redux](https://github.com/reduxjs/redux)** library <br>
+**[Node.js](https://github.com/nodejs/node)** Library <br>
+**[Laravel](https://github.com/laravel/laravel)** framework <br>
+**[Webpack](https://github.com/webpack/webpack)** bundler & [dev server](https://github.com/webpack/webpack-dev-server) <br>
+_this list is also waiting changes in future, like all of other this README parts_
 
-### Code Splitting
+## About me
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+All team consist only of me own, you also can contact with me, if you want, sure <br>
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+`triadeaic@gmail.com`
