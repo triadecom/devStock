@@ -1,5 +1,4 @@
 ## DevStock service
-_My english skill maybe can look very awful, don't pay many attention to it_
 
 DevStock - it's a something like a your personal "stock" for all of your <br>
 important things, like a projects, designs, notes, and etc.<br>
