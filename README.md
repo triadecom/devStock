@@ -1,4 +1,4 @@
-## DevStock service
+# DevStock service
 
 DevStock - it's a something like a your personal "stock" for all of your <br>
 important things, like a projects, designs, notes, and etc.<br>
@@ -15,12 +15,13 @@ Second aim is just a grow up to full stack developer, be more independent with s
 Also, this project is also will help me to more practice in popular libraries/frameworks, such like an react, vue and many different<br>
 So, now you should understand, that this project, in fact will be more like an self-study thing, unlike a real project
 
-### Actual project progress
+## Actual project progress
 
-At this moment, I haven't something to show.<br>
+_Literally nothing_ <br>
+I really haven't something I can show now.<br>
 `Develop in progress!`
 
-### Project main features
+## Project main features
 
 **Feature list will be growing by the time**<br>
 
@@ -40,7 +41,7 @@ At this moment, I haven't something to show.<br>
 I really hope that final version will be equal or just very close with this list,<br>
 But also I'm sure that this version is just like one out of different levels of project evolution in future<br>
 
-### Project expectations
+## Project expectations
 
 At this moment, I can just imagine of future features and lifecycle of service but all.<br>
 But I can list some things, that I can imagine as appropriate evolution ways of project<br>
@@ -57,7 +58,7 @@ _for my ugly grammar, but be sure that with each new update there will be less m
 
 ## Work sources
 
-###### **Frameworks & libraries**
+### **Frameworks & libraries**
 
 **[React](https://github.com/facebook/react)** library <br> 
 **[Redux](https://github.com/reduxjs/redux)** library <br>
